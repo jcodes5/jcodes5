@@ -12,7 +12,7 @@ I'm a software developer based in Nigeria. I enjoy coding open-source projects t
 
 I'm currently working on [@Kogi state Environmental Intelligence Platform](https://kogistateenvironmentplatform.vercel.app/). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source.
 
-![KSEIP](/assets/tweetormator.jpg)
+![KSEIP](/kseip.png)
 
 &nbsp;
 
