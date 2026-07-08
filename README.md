@@ -46,8 +46,6 @@ I'm currently working on [@Kogi state Environmental Intelligence Platform](https
 
 ## 📊 &nbsp;Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcodes5&show_icons=true&locale=en&layout=compact" alt="jcodes5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcodes5&" alt="jcodes5" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jcodes5)](https://git.io/streak-stats)
 
 <a rel="me" href="https://substack.com/@iovercome">Follow me on Substack</a>
